@@ -1,0 +1,27 @@
+{
+  "name": "weixin",
+  "version": "1.0.0",
+  "description": "",
+  "main": "get_access_token.js",
+  "dependencies": {
+    "git": "^0.1.5",
+    "mysql": "^2.17.1",
+    "wangeditor": "^3.1.1",
+    "awyhttp": "^1.1.4",
+    "awy": "^1.6.3"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Liyue1998/gzh.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Liyue1998/gzh/issues"
+  },
+  "homepage": "https://github.com/Liyue1998/gzh#readme"
+}
